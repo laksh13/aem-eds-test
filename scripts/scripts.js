@@ -16,7 +16,7 @@ import {
 /**
  * Builds hero block and prepends to main in a new section.
  * @param {Element} main The container element
- */
+ */ 
 function buildHeroBlock(main) {
   const h1 = main.querySelector('h1');
   const picture = main.querySelector('picture');
